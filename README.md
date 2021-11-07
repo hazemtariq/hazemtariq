@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hazemtariq
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently building my knowledge on analytics 
+- 🌱 I’m currently building my knowledge on analytics programming softwares
 - 📫 How to reach me hazemtariq25@gmail.com 
 
 <!---
